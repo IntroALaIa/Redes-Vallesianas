@@ -1,0 +1,1 @@
+pip install pgmpy pandas networkx matplotlib
